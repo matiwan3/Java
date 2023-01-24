@@ -9,7 +9,7 @@ public class Main {
         System.out.println(fullName);
         
         int x  = 5;
-        int y = 6;
+        int y = 16;
         System.out.println(x + y); // Print the value of x + y
     }
 }
